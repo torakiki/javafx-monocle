@@ -5,7 +5,7 @@
     <artifactId>javafx-monocle</artifactId>
     <packaging>jar</packaging>
     <name>javafx-monocle</name>
-    <version>21</version>
+    <version>22-SNAPSHOT</version>
 
     <description>Standalone version of Monocle for testing purposes</description>
     <url>https://openjdk.org/projects/openjfx/</url>
@@ -30,7 +30,7 @@
         <connection>scm:git:git@github.com:torakiki/javafx-monocle.git</connection>
         <developerConnection>scm:git:git@github.com:torakiki/javafx-monocle.git</developerConnection>
         <url>scm:git:git@github.com:torakiki/javafx-monocle.git</url>
-        <tag>v21</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <profiles>
