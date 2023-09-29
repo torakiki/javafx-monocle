@@ -1,0 +1,15 @@
+*.class
+
+.classpath
+.project
+.launch
+.settings/
+target/
+.externalToolBuilders/
+.idea
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
