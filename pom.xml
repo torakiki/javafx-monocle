@@ -15,6 +15,13 @@
         <url>https://github.com/torakiki/javafx-monocle/</url>
     </issueManagement>
 
+    <developers>
+        <developer>
+            <id>openjdk</id>
+            <name>OpenJDK community</name>
+        </developer>
+    </developers>
+
     <licenses>
         <license>
             <name>GNU General Public License, version 2, with the Classpath Exception</name>
@@ -118,7 +125,7 @@
                         <version>1.6.13</version>
                         <extensions>true</extensions>
                         <configuration>
-                            <serverId>ossrh</serverId>
+                            <serverId>pdfsam-ossrh</serverId>
                             <nexusUrl>https://oss.sonatype.org/</nexusUrl>
                             <autoReleaseAfterClose>true</autoReleaseAfterClose>
                         </configuration>
